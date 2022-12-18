@@ -12,6 +12,7 @@
     "baseUrl": "./",
     "strict": true,
     "strictPropertyInitialization": false,
+    "resolveJsonModule": true,
     "incremental": true,
     "skipLibCheck": true,
     "strictNullChecks": true,
